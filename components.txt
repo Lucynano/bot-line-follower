@@ -1,0 +1,13 @@
+- TCRT5000 (IR) x3
+- Jumpers
+- DC Gear Motor TT 6V x2
+- Smart Car Wheel 65mm x4
+- Chassis
+- Driver L298
+- Wires
+- Arduino UNO
+- Button ON/OFF
+- 18650 Lithium Ion BMS
+- UltraFire 18650 Li-ion Rechargeable Battery Red x3
+- Screw
+- Electrical Tape
